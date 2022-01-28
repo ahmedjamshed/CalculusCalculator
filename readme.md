@@ -1,6 +1,6 @@
 # Scientific Calculus Calculator
 
-A calculator for solving derivation and integration problems along with other functions
-to help student
+A calculator for solving linear equations, derivation and integration problems along with other functionalities
+to help students
 
-!(Calculus Calculator)[./img.png]
+![Calculus Calculator](./img.png)
